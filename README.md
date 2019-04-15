@@ -3,8 +3,8 @@ This project will collect any WTF ACCEPTED solution of [LeetCode Problems](https
 There is no rule here, please just show me.
 
 ## Definition of WTF
-W - Wise
-T - Terrific 
-F - Fantastic
+* W - Wise
+* T - Terrific 
+* F - Fantastic
 
 
